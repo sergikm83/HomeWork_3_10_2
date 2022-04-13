@@ -42,6 +42,7 @@ namespace HomeWork_3_10_2
                         break;
                 };
             }
+            Console.WriteLine($"Сумма карт равна {result}");
         }
     }
 }
